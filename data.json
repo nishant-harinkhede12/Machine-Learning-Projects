@@ -1,0 +1,1812 @@
+[
+  {
+    "_id": "61532dd3df7c77226a374004",
+    "guid": "5ef8ef03-fee7-4925-bf35-b03e73f4814e",
+    "purchase": true,
+    "age": 31,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-04-13T01:02:17 -01:00"
+  },
+  {
+    "_id": "61532dd302db3af65f3f6dd2",
+    "guid": "0c44fa6d-0d9c-4f48-865c-9fd9e43652fa",
+    "purchase": true,
+    "age": 27,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-06-09T09:30:17 -01:00"
+  },
+  {
+    "_id": "61532dd3c913183ea10d393d",
+    "guid": "9b4bf4ec-4e0a-44c8-aa99-dcb156fed0ee",
+    "purchase": true,
+    "age": 31,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-08-03T08:27:32 -01:00"
+  },
+  {
+    "_id": "61532dd3d4daf9e2f1e6c034",
+    "guid": "cc8a09ec-ae8a-4c4a-b2b6-484a76cbcbd0",
+    "purchase": false,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-06-22T03:01:07 -01:00"
+  },
+  {
+    "_id": "61532dd3e9519244d6c245ee",
+    "guid": "789d2f83-4a33-458d-92c4-b88f7714e3ec",
+    "purchase": true,
+    "age": 36,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-07-30T01:16:23 -01:00"
+  },
+  {
+    "_id": "61532dd34b8d02a8f0d7d90b",
+    "guid": "fdd38b3a-edfb-4b0b-a74d-dbc150d863fc",
+    "purchase": true,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2021-06-08T10:31:43 -01:00"
+  },
+  {
+    "_id": "61532dd33ec536c28be3dbe2",
+    "guid": "adfcdaa3-7a88-400a-96f4-1377b11f5b1b",
+    "purchase": false,
+    "age": 23,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-10-17T11:18:40 -01:00"
+  },
+  {
+    "_id": "61532dd3c54544f693e2d348",
+    "guid": "4b7f5bf1-649a-436b-adea-ac9aad2b0223",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-01-03T02:40:15 -00:00"
+  },
+  {
+    "_id": "61532dd329ebcbe4ffc5bbc3",
+    "guid": "4063b126-85d9-4c5d-9ab6-5ab2d37e5eda",
+    "purchase": true,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-08-23T10:23:43 -01:00"
+  },
+  {
+    "_id": "61532dd39d0a2ea22e481c85",
+    "guid": "60d01eba-1d7d-4404-8c80-88a940142000",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-03-28T10:01:36 -00:00"
+  },
+  {
+    "_id": "61532dd3ef8b305aac3769c3",
+    "guid": "5a13cbb1-261c-418b-ac4d-8b942971b581",
+    "purchase": false,
+    "age": 40,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-04-19T10:16:00 -01:00"
+  },
+  {
+    "_id": "61532dd301fed589f6164454",
+    "guid": "a1da8932-1dbe-4fe6-bc7c-3bfcb704aad6",
+    "purchase": false,
+    "age": 23,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2021-03-29T04:02:45 -01:00"
+  },
+  {
+    "_id": "61532dd343c14c2ae3e697c8",
+    "guid": "886f7b77-485d-4a50-992b-cdaa4356c923",
+    "purchase": false,
+    "age": 30,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2021-02-28T01:30:22 -00:00"
+  },
+  {
+    "_id": "61532dd3b8dcc8c71a8a16a6",
+    "guid": "8de52343-0c31-4a9f-8cfe-f838fbfd842f",
+    "purchase": true,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2021-02-12T12:22:42 -00:00"
+  },
+  {
+    "_id": "61532dd322eeb744f65db21e",
+    "guid": "1f4e2eb0-f917-473d-b073-15c3b43e7d91",
+    "purchase": true,
+    "age": 33,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-06-15T06:19:07 -01:00"
+  },
+  {
+    "_id": "61532dd310900126e14da3ea",
+    "guid": "0b54c634-c9cf-4bb4-b223-d8dceee56381",
+    "purchase": false,
+    "age": 27,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-01-05T08:49:34 -00:00"
+  },
+  {
+    "_id": "61532dd3c7c23e49346caedd",
+    "guid": "390d5912-5d20-4f0a-bd03-ab2ae31788b3",
+    "purchase": false,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2021-02-11T09:53:07 -00:00"
+  },
+  {
+    "_id": "61532dd38e9d9e1326ad26a6",
+    "guid": "479da724-9e50-4ec1-a1a4-a1996fdd4e89",
+    "purchase": true,
+    "age": 40,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-09-21T12:08:22 -01:00"
+  },
+  {
+    "_id": "61532dd3501a49e438b0f70e",
+    "guid": "ece527bb-8a08-41c6-9844-01692c51e570",
+    "purchase": true,
+    "age": 30,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-12-05T08:53:38 -00:00"
+  },
+  {
+    "_id": "61532dd3a9c82b0add9d7be2",
+    "guid": "05397ca4-e7e6-416d-aca7-c3e508b8c712",
+    "purchase": false,
+    "age": 26,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-01-26T09:30:50 -00:00"
+  },
+  {
+    "_id": "61532dd3a1ce2373f120327c",
+    "guid": "b896b940-2167-4e34-9a2d-3d4dd7a889d6",
+    "purchase": true,
+    "age": 31,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2021-06-11T06:42:30 -01:00"
+  },
+  {
+    "_id": "61532dd329be72c0c7813390",
+    "guid": "8df69dc5-d5bd-4d6d-876f-155c87035930",
+    "purchase": false,
+    "age": 35,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-04-09T08:57:28 -01:00"
+  },
+  {
+    "_id": "61532dd3950295774839a7a7",
+    "guid": "9d3fe147-636a-41c3-81b0-20435c8b0cc3",
+    "purchase": true,
+    "age": 36,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2021-01-03T06:02:57 -00:00"
+  },
+  {
+    "_id": "61532dd308a15df7d7151829",
+    "guid": "5cbf3e70-509d-4335-807e-2dcc5a4ae32a",
+    "purchase": true,
+    "age": 30,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-04-03T04:04:48 -01:00"
+  },
+  {
+    "_id": "61532dd3127081c496a54536",
+    "guid": "68eea445-c54f-4bc0-8833-e91162280acf",
+    "purchase": false,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-11-04T03:53:36 -00:00"
+  },
+  {
+    "_id": "61532dd3a900efc55764539e",
+    "guid": "0e5c9ae6-433f-4baa-841a-5fe1279b659c",
+    "purchase": false,
+    "age": 26,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-04-14T12:01:21 -01:00"
+  },
+  {
+    "_id": "61532dd346b9fdcda756db31",
+    "guid": "432fa3da-e428-4caf-a6fe-e9f88184e9da",
+    "purchase": true,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-04-05T05:29:44 -01:00"
+  },
+  {
+    "_id": "61532dd3960f289637033271",
+    "guid": "0e20b91c-cc8d-477a-8596-90e60473e5bd",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2021-07-10T05:14:26 -01:00"
+  },
+  {
+    "_id": "61532dd33b8cf7f7ac4adae3",
+    "guid": "f9a7d809-ce64-41ea-bc35-b99dcb5ff9a6",
+    "purchase": true,
+    "age": 38,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-11-27T10:36:15 -00:00"
+  },
+  {
+    "_id": "61532dd372ad5224b5cca0fc",
+    "guid": "720a6a01-485d-4588-a16d-c8a5ecdaa761",
+    "purchase": true,
+    "age": 20,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2021-08-20T08:50:15 -01:00"
+  },
+  {
+    "_id": "61532dd395de4d611f2a2794",
+    "guid": "4d6d0d32-f8d9-4f39-bc3a-d55273d9ea1c",
+    "purchase": true,
+    "age": 24,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2021-07-23T04:32:10 -01:00"
+  },
+  {
+    "_id": "61532dd3987c910a7d481322",
+    "guid": "7b6c8049-6436-477e-843d-251783ce281a",
+    "purchase": false,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-03-07T11:23:52 -00:00"
+  },
+  {
+    "_id": "61532dd3e0bc092d52f43b93",
+    "guid": "210cd3e8-8351-442b-98d7-941340495719",
+    "purchase": false,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-08-17T11:47:54 -01:00"
+  },
+  {
+    "_id": "61532dd3e74c116878a2b37f",
+    "guid": "3d3ec9e1-b6a7-4cb6-b3a6-e40a2a4aea4a",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-08-15T09:09:12 -01:00"
+  },
+  {
+    "_id": "61532dd3ae68650556daf29f",
+    "guid": "ca50579e-4e22-4f19-bac7-ca6a138fc03f",
+    "purchase": false,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-09-15T06:19:27 -01:00"
+  },
+  {
+    "_id": "61532dd3e4009f6cc47c0d83",
+    "guid": "fab41953-498b-4d56-a2ef-5f3387726863",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-06-27T08:29:15 -01:00"
+  },
+  {
+    "_id": "61532dd33e1522e8618eeb87",
+    "guid": "cdd12a9a-fc02-4798-ae8a-b86da087d2f8",
+    "purchase": false,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-03-25T04:10:55 -00:00"
+  },
+  {
+    "_id": "61532dd35fcf96580bf98f5a",
+    "guid": "25366130-578d-4717-bbbd-1bc7ee8dfb73",
+    "purchase": false,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-04-06T04:49:08 -01:00"
+  },
+  {
+    "_id": "61532dd3c3cd3d0a02889762",
+    "guid": "3a11fb86-9a41-49e9-baf5-0a6bd830ba65",
+    "purchase": false,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2021-01-01T10:58:07 -00:00"
+  },
+  {
+    "_id": "61532dd37773bdf3f65cd3f2",
+    "guid": "2850bdc1-9fe4-480a-bece-169ecfefcc05",
+    "purchase": false,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2021-03-22T09:25:49 -00:00"
+  },
+  {
+    "_id": "61532dd31af3fd37db33c3f2",
+    "guid": "e292dee7-5bc2-4551-914a-8f44caa4eb00",
+    "purchase": false,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-11-12T03:40:35 -00:00"
+  },
+  {
+    "_id": "61532dd326684dc99b65fc63",
+    "guid": "586d3951-1b6f-4cbf-848d-05fea3cf7c7c",
+    "purchase": false,
+    "age": 35,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-10-16T01:01:27 -01:00"
+  },
+  {
+    "_id": "61532dd3d59ca843ab168451",
+    "guid": "007f88a4-36af-4486-abce-8d01b09f3f5e",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-09-08T06:31:33 -01:00"
+  },
+  {
+    "_id": "61532dd32e44efe3a35cce0d",
+    "guid": "4aee55a3-fe44-4c5d-b705-fb774f6bec74",
+    "purchase": true,
+    "age": 24,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-11-28T02:23:44 -00:00"
+  },
+  {
+    "_id": "61532dd3697fb3499e77f415",
+    "guid": "9e825bf6-8411-4b66-bad4-d8b578d4a8c2",
+    "purchase": false,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-10-25T11:30:43 -00:00"
+  },
+  {
+    "_id": "61532dd394f985701f1af443",
+    "guid": "54f27790-a2c0-4ed8-a9dc-c158f4216bba",
+    "purchase": true,
+    "age": 35,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2021-07-02T02:41:22 -01:00"
+  },
+  {
+    "_id": "61532dd36861f5641839d1df",
+    "guid": "407f0aae-25c7-48a1-aab0-1be07f37963f",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-01-06T04:31:26 -00:00"
+  },
+  {
+    "_id": "61532dd3c7d0f86c4c9cee2f",
+    "guid": "c622d7de-8785-499e-b30a-b8cb5171aa67",
+    "purchase": true,
+    "age": 23,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2021-08-02T07:01:22 -01:00"
+  },
+  {
+    "_id": "61532dd3b71cbd335f131dfa",
+    "guid": "ecde63c7-da7b-4db5-bc0a-993008fb8331",
+    "purchase": false,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-05-11T03:36:10 -01:00"
+  },
+  {
+    "_id": "61532dd3c47cd21e754d7a74",
+    "guid": "f5da8c23-265c-446a-bf5f-aeb53ecb11e0",
+    "purchase": false,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-07-16T05:26:02 -01:00"
+  },
+  {
+    "_id": "61532dd31df331ed7adda1d6",
+    "guid": "7d7c6760-5b14-44c6-9a07-1185b11ac68e",
+    "purchase": false,
+    "age": 36,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-07-14T08:59:12 -01:00"
+  },
+  {
+    "_id": "61532dd3b34f5c10ded9d3b0",
+    "guid": "db48e198-c227-4ac3-a3b2-49c40bb5e2e7",
+    "purchase": true,
+    "age": 38,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-08-27T10:33:17 -01:00"
+  },
+  {
+    "_id": "61532dd3ebd351fa63a846f0",
+    "guid": "d537cdbf-a708-4f52-a1a2-67bbd7842bdb",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-05-29T08:27:00 -01:00"
+  },
+  {
+    "_id": "61532dd3fbfb673ca12a2296",
+    "guid": "a08d95f0-7157-401e-97ee-10ca82e36dfb",
+    "purchase": false,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-02-27T10:07:44 -00:00"
+  },
+  {
+    "_id": "61532dd3238be3beccb2cc0c",
+    "guid": "252fb764-e079-42d3-a37b-497dd58a723f",
+    "purchase": true,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-11-07T03:17:21 -00:00"
+  },
+  {
+    "_id": "61532dd3e78e9151fedc822a",
+    "guid": "be07e522-cf5a-4f56-8b2e-68aa6d2ee68e",
+    "purchase": false,
+    "age": 38,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-12-04T10:00:05 -00:00"
+  },
+  {
+    "_id": "61532dd309922a6992411e85",
+    "guid": "da67b7ad-4f8c-4252-a252-56a433117c90",
+    "purchase": false,
+    "age": 30,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-04-01T12:25:13 -01:00"
+  },
+  {
+    "_id": "61532dd3181da2715d3e9886",
+    "guid": "9413c109-eebc-4447-bd45-f3d413b05da4",
+    "purchase": false,
+    "age": 36,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-12-18T09:22:27 -00:00"
+  },
+  {
+    "_id": "61532dd36aa28a4c8f108e32",
+    "guid": "2e10d1c2-18dc-426c-adc4-8174f3a022c3",
+    "purchase": false,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-04-03T06:19:58 -01:00"
+  },
+  {
+    "_id": "61532dd3ce0d15c2025f7499",
+    "guid": "bd826778-8c1b-4e8f-9706-9ae89866af0e",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2021-03-24T08:42:17 -00:00"
+  },
+  {
+    "_id": "61532dd3203209c6f6d48788",
+    "guid": "9b815a5c-b886-44ed-993d-b8e135595121",
+    "purchase": true,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-10-11T11:01:22 -01:00"
+  },
+  {
+    "_id": "61532dd37c9d839d320804c6",
+    "guid": "488d402c-eca4-4c0e-8212-f7976084a7b0",
+    "purchase": false,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2021-04-06T05:52:00 -01:00"
+  },
+  {
+    "_id": "61532dd3b9c14f5e92b0f097",
+    "guid": "95fcdc10-7aea-4637-9c92-46485b282331",
+    "purchase": false,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-06-18T08:29:17 -01:00"
+  },
+  {
+    "_id": "61532dd3319aaf04370c3b3f",
+    "guid": "141b6e7c-07f5-4be1-ad84-a354b6326894",
+    "purchase": false,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-01-19T05:18:37 -00:00"
+  },
+  {
+    "_id": "61532dd37ca1e8e120ce2a60",
+    "guid": "9b8acd6f-b74a-4456-9838-34ea6a0a3d3f",
+    "purchase": false,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-01-31T05:31:54 -00:00"
+  },
+  {
+    "_id": "61532dd3d5e9a3b5e764ad1e",
+    "guid": "c99ce188-309a-45bd-bc92-90cbd993bef1",
+    "purchase": true,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-08-29T01:22:28 -01:00"
+  },
+  {
+    "_id": "61532dd3c72ad88a022ddcbb",
+    "guid": "5160fca5-1aa1-49e2-b70c-1a41f9162e99",
+    "purchase": true,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-01-20T08:17:41 -00:00"
+  },
+  {
+    "_id": "61532dd31bb959cb1828b7ee",
+    "guid": "79fa10a7-21b0-4943-8ce5-b67224901d37",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-08-04T02:27:20 -01:00"
+  },
+  {
+    "_id": "61532dd3b657a94f304e2355",
+    "guid": "6fbf4a3d-fee1-4acc-8368-6f56ac80fad9",
+    "purchase": true,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-06-11T09:42:54 -01:00"
+  },
+  {
+    "_id": "61532dd316d80ed4e49d4634",
+    "guid": "e0af3352-4589-4f9d-b7f3-c88cb24740bd",
+    "purchase": false,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2021-03-24T06:39:59 -00:00"
+  },
+  {
+    "_id": "61532dd334686ca465d0d5f1",
+    "guid": "59117e39-dad3-43c2-8292-8be70c574342",
+    "purchase": true,
+    "age": 26,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-06-05T07:42:11 -01:00"
+  },
+  {
+    "_id": "61532dd3b4cdabde27f7d369",
+    "guid": "7171f83f-7d7b-40c9-ba64-cdba473700d8",
+    "purchase": true,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-03-18T04:56:28 -00:00"
+  },
+  {
+    "_id": "61532dd34e943d61716124fb",
+    "guid": "9a58d80d-efd8-4951-a0d2-45f0180ab22d",
+    "purchase": true,
+    "age": 38,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2020-05-08T09:35:14 -01:00"
+  },
+  {
+    "_id": "61532dd36b8e81920ae65935",
+    "guid": "d8358729-3c81-4184-9400-7532a1c3db8a",
+    "purchase": false,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2021-03-02T05:27:26 -00:00"
+  },
+  {
+    "_id": "61532dd3fca81e573f26970e",
+    "guid": "1e57aa67-13f2-45a1-9512-b2683da470f8",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-05-30T07:11:38 -01:00"
+  },
+  {
+    "_id": "61532dd39b316afcc1c23070",
+    "guid": "7beb0029-6f64-4cff-8898-453b46664fc1",
+    "purchase": true,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-03-06T08:51:22 -00:00"
+  },
+  {
+    "_id": "61532dd360ac8d790df33423",
+    "guid": "2bbbc6b9-7f04-4b4d-92cf-1b1f6bdc3221",
+    "purchase": true,
+    "age": 36,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2021-07-12T01:34:08 -01:00"
+  },
+  {
+    "_id": "61532dd3ce1219bf94728eb0",
+    "guid": "ae342d55-fc22-4eff-809d-3ecdf83aa46f",
+    "purchase": false,
+    "age": 40,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2021-08-11T03:33:54 -01:00"
+  },
+  {
+    "_id": "61532dd3a081f72cbe84c6ef",
+    "guid": "7c16a585-f63a-4cfc-a18a-2681e025d57c",
+    "purchase": false,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-12-07T08:11:27 -00:00"
+  },
+  {
+    "_id": "61532dd3db9438da33821fd6",
+    "guid": "6ff2fbb0-88a5-421e-b62e-fe37d5e0e469",
+    "purchase": true,
+    "age": 27,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-04-07T03:50:31 -01:00"
+  },
+  {
+    "_id": "61532dd389db62e9b25816ca",
+    "guid": "28972c5e-a0aa-4bd2-b6c2-c13404392644",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-09-22T01:50:44 -01:00"
+  },
+  {
+    "_id": "61532dd3ca8d36ccddf010b5",
+    "guid": "509359cb-1a70-4864-8e0d-ad4adc476017",
+    "purchase": false,
+    "age": 36,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-07-08T06:33:55 -01:00"
+  },
+  {
+    "_id": "61532dd3278d1d7aaff2f821",
+    "guid": "ef098201-c091-4bc0-b181-06085f6b5135",
+    "purchase": false,
+    "age": 23,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2021-02-17T08:15:40 -00:00"
+  },
+  {
+    "_id": "61532dd32f8d2fe62b02fa30",
+    "guid": "99fdf6b1-7f93-484f-a874-51e8c8c4c6f2",
+    "purchase": true,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-08-26T07:58:25 -01:00"
+  },
+  {
+    "_id": "61532dd312e68202f0f526ff",
+    "guid": "436cec16-2f93-4265-b486-7b1334ccdc5b",
+    "purchase": true,
+    "age": 40,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2021-01-14T02:34:46 -00:00"
+  },
+  {
+    "_id": "61532dd311abc69abc581ee0",
+    "guid": "6cc8c46e-f4f4-4c8e-88fc-973a6c174a6b",
+    "purchase": true,
+    "age": 37,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-04-07T11:47:30 -01:00"
+  },
+  {
+    "_id": "61532dd30b4ff0cc6820ffb7",
+    "guid": "6e58dd4b-9b1d-4857-bf82-d80802390a12",
+    "purchase": false,
+    "age": 24,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2021-08-28T01:21:54 -01:00"
+  },
+  {
+    "_id": "61532dd363818237679953ac",
+    "guid": "f9b6ff1b-03dc-40b4-84b8-ad1765c195ba",
+    "purchase": true,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-06-10T10:32:14 -01:00"
+  },
+  {
+    "_id": "61532dd3888e7736917dacac",
+    "guid": "33b12f66-0b99-4576-ad28-791d21962e63",
+    "purchase": true,
+    "age": 23,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-07-13T03:03:23 -01:00"
+  },
+  {
+    "_id": "61532dd37f7a88a9dab5db78",
+    "guid": "f6f0fcdb-aca3-42ce-918e-9c9f58956ad2",
+    "purchase": true,
+    "age": 33,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2021-08-21T02:50:36 -01:00"
+  },
+  {
+    "_id": "61532dd39180734bb30bc586",
+    "guid": "4f0f8d1e-5b50-4588-92c5-ad4477a839aa",
+    "purchase": true,
+    "age": 33,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-11-24T11:19:25 -00:00"
+  },
+  {
+    "_id": "61532dd3e2de31fdd44f44ca",
+    "guid": "ab318b7e-5b20-42ef-bc5d-722cda945848",
+    "purchase": true,
+    "age": 40,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-01-05T05:11:03 -00:00"
+  },
+  {
+    "_id": "61532dd3c3eaa5fbbab307a5",
+    "guid": "5016ced9-a017-43ed-8dc1-599a31895b10",
+    "purchase": true,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-01-10T02:55:47 -00:00"
+  },
+  {
+    "_id": "61532dd3a332cabb7ffb8de3",
+    "guid": "5ab9939e-2c3c-4cd8-bfe7-f2212b4859f0",
+    "purchase": true,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-06-10T04:07:24 -01:00"
+  },
+  {
+    "_id": "61532dd3ddea6e348fd18bb3",
+    "guid": "f7072b19-731a-4f4b-ad8b-f92abe9b279c",
+    "purchase": false,
+    "age": 36,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-04-20T05:14:37 -01:00"
+  },
+  {
+    "_id": "61532dd361409d294fa8d600",
+    "guid": "92273573-9489-4bc6-a71c-a44f795b6dbf",
+    "purchase": true,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-04-15T02:49:15 -01:00"
+  },
+  {
+    "_id": "61532dd3346475ce6e7a8443",
+    "guid": "b1119886-30a6-43f2-9851-849c22060d0b",
+    "purchase": true,
+    "age": 35,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-04-17T04:13:39 -01:00"
+  },
+  {
+    "_id": "61532dd3fda0a749e512d8ea",
+    "guid": "cc803f17-ea6f-4cf4-9515-befc85e7ac4f",
+    "purchase": true,
+    "age": 33,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-08-04T03:14:21 -01:00"
+  },
+  {
+    "_id": "61532dd303c2ddaed5b03dca",
+    "guid": "ffadf0ed-ae0c-43e1-ba00-0ffebccc2b28",
+    "purchase": false,
+    "age": 27,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2020-05-17T06:31:54 -01:00"
+  },
+  {
+    "_id": "61532dd33d3ae693c7740525",
+    "guid": "ab79c8e7-484f-4492-a55e-5d6631f20a07",
+    "purchase": true,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2021-09-16T01:09:27 -01:00"
+  },
+  {
+    "_id": "61532dd3a9a4158d4875fa67",
+    "guid": "cae74b69-437b-4922-9beb-ef85092f1085",
+    "purchase": true,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-08-28T03:16:52 -01:00"
+  },
+  {
+    "_id": "61532dd348f2ec1c6cd1dc44",
+    "guid": "3f57c78d-202c-4cb2-af73-5a7903240dde",
+    "purchase": false,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-08-23T08:54:36 -01:00"
+  },
+  {
+    "_id": "61532dd3bde8612694ddb8a9",
+    "guid": "566673e6-4656-495e-be39-ffda6bb57971",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2020-03-26T01:32:03 -00:00"
+  },
+  {
+    "_id": "61532dd38351218d0b47ca59",
+    "guid": "e24da9ac-6cf8-4c19-ae4d-49d346240caa",
+    "purchase": true,
+    "age": 24,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-11-05T11:54:11 -00:00"
+  },
+  {
+    "_id": "61532dd30c74c68df5be7c29",
+    "guid": "cb62e70d-07d2-4ef6-bf27-acd2509e5a67",
+    "purchase": true,
+    "age": 31,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-09-20T03:42:43 -01:00"
+  },
+  {
+    "_id": "61532dd3c0ac5ea3f11d263f",
+    "guid": "4efc5d27-7d8b-404f-a447-5e0f2530d68e",
+    "purchase": false,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-03-23T01:11:43 -00:00"
+  },
+  {
+    "_id": "61532dd33183afd9f56df5f2",
+    "guid": "aba9a4c0-3ec5-492b-b1a3-0034b11b778d",
+    "purchase": true,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-08-05T01:25:42 -01:00"
+  },
+  {
+    "_id": "61532dd30a37b74aea7c46c2",
+    "guid": "aed63fb7-88cb-470c-913d-04017086ab12",
+    "purchase": false,
+    "age": 24,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-09-14T05:34:37 -01:00"
+  },
+  {
+    "_id": "61532dd3ac4ce4278c03f714",
+    "guid": "f7dfc23f-e812-4489-838f-33e145135fec",
+    "purchase": false,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-06-22T11:01:27 -01:00"
+  },
+  {
+    "_id": "61532dd33af9163488cd3e71",
+    "guid": "d85cbc32-d27f-4e7e-84f9-bbf714ed095f",
+    "purchase": false,
+    "age": 23,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-08-04T04:38:21 -01:00"
+  },
+  {
+    "_id": "61532dd3505620477038a02d",
+    "guid": "1c87bf6c-b112-4cf4-a8fb-4d31fa58c3ea",
+    "purchase": true,
+    "age": 23,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-07-01T02:57:38 -01:00"
+  },
+  {
+    "_id": "61532dd3afbe8d99b41227c3",
+    "guid": "86af713c-a6c4-4e86-96ee-1b07239efb7c",
+    "purchase": false,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-06-07T07:35:54 -01:00"
+  },
+  {
+    "_id": "61532dd3e62848da24df0fbe",
+    "guid": "79f15e4f-59d2-4f0d-9bcd-2ea4b5fdb3fe",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-07-02T08:57:00 -01:00"
+  },
+  {
+    "_id": "61532dd35c5081200f8a9e16",
+    "guid": "6e9b6fbe-49c8-4dfe-ace7-59819952f7a9",
+    "purchase": true,
+    "age": 35,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-04-08T03:35:08 -01:00"
+  },
+  {
+    "_id": "61532dd3a5b41f497b4fe2db",
+    "guid": "037ade3a-4e65-46c9-92d2-6559d1d41538",
+    "purchase": true,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-03-27T07:01:03 -00:00"
+  },
+  {
+    "_id": "61532dd31fbc9ed61d544bf3",
+    "guid": "7a7cbff7-aa02-40d0-912d-930b678cc6a8",
+    "purchase": false,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-05-29T04:13:35 -01:00"
+  },
+  {
+    "_id": "61532dd32ffa036da744787a",
+    "guid": "f1daa9a6-5f13-4d4e-9fa9-21b227341c10",
+    "purchase": true,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-10-31T02:48:22 -00:00"
+  },
+  {
+    "_id": "61532dd39ee3d0cdb8338679",
+    "guid": "8e72c778-0e6b-49bf-bcc2-7e53bf5eb0b9",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-03-14T03:23:43 -00:00"
+  },
+  {
+    "_id": "61532dd320004ec83dc90a18",
+    "guid": "bc69db4a-a021-45a9-b9a6-483dc0a416fd",
+    "purchase": false,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-03-19T12:42:51 -00:00"
+  },
+  {
+    "_id": "61532dd32e1bff3b4cae92c1",
+    "guid": "613f1b6b-79f8-4157-a80b-5a3a0fba6efd",
+    "purchase": false,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-12-31T01:31:18 -00:00"
+  },
+  {
+    "_id": "61532dd380bf8921ee334fa0",
+    "guid": "b45984f5-6d4f-425d-a3c2-2187aa7655fd",
+    "purchase": true,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-10-11T03:04:00 -01:00"
+  },
+  {
+    "_id": "61532dd3547ceef43a7ee600",
+    "guid": "9651d916-624a-4b14-b2ae-91cc138509b7",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-09-13T07:39:36 -01:00"
+  },
+  {
+    "_id": "61532dd3be4134deee313a02",
+    "guid": "bb42d897-fe2c-457f-9d3f-8b3b399aea3f",
+    "purchase": true,
+    "age": 24,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2021-07-02T05:59:33 -01:00"
+  },
+  {
+    "_id": "61532dd3281fdcd1ff01d56a",
+    "guid": "638b43c6-5942-4484-930d-c7000a6d097f",
+    "purchase": true,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-09-19T03:46:45 -01:00"
+  },
+  {
+    "_id": "61532dd37bb6d62b240ab233",
+    "guid": "84ff0d23-c0a7-4175-abe3-1dedaa645dc4",
+    "purchase": false,
+    "age": 26,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2021-04-23T06:46:15 -01:00"
+  },
+  {
+    "_id": "61532dd36134dae51e909448",
+    "guid": "f47c5f63-c495-416f-80b2-8228f67bd192",
+    "purchase": true,
+    "age": 33,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-06-20T05:17:58 -01:00"
+  },
+  {
+    "_id": "61532dd352f84234eece2630",
+    "guid": "68b577fa-9587-4e62-8682-4fc4648a159d",
+    "purchase": false,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2021-03-16T11:39:06 -00:00"
+  },
+  {
+    "_id": "61532dd32916ce6b6c9b72c5",
+    "guid": "d73d4851-a8e4-4089-833e-d133881f7587",
+    "purchase": true,
+    "age": 36,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-03-08T11:54:14 -00:00"
+  },
+  {
+    "_id": "61532dd399afb7b7fd0ba928",
+    "guid": "bb49851f-0264-451d-948d-228553442959",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-07-29T03:17:03 -01:00"
+  },
+  {
+    "_id": "61532dd389d5462452085a15",
+    "guid": "d3d06513-14e8-48a4-b584-62018f64773d",
+    "purchase": true,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-01-28T11:13:30 -00:00"
+  },
+  {
+    "_id": "61532dd31ad24d3e1c13ba49",
+    "guid": "30d8220e-d2bb-4925-8519-2be3fae3abd8",
+    "purchase": false,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-09-21T07:06:38 -01:00"
+  },
+  {
+    "_id": "61532dd3ec19970753a4265c",
+    "guid": "c1e04ce3-6523-45ce-9f9e-02422ecc070b",
+    "purchase": true,
+    "age": 27,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2021-08-25T10:39:01 -01:00"
+  },
+  {
+    "_id": "61532dd3e0182950004674cb",
+    "guid": "9a7eefcf-2525-4ed7-889e-980788937db4",
+    "purchase": false,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2020-11-27T10:53:29 -00:00"
+  },
+  {
+    "_id": "61532dd32a7c416bf46c1d6e",
+    "guid": "28ec200a-a44e-4fce-b963-83eaaae26446",
+    "purchase": false,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-01-01T08:02:06 -00:00"
+  },
+  {
+    "_id": "61532dd378f1540ea27125e2",
+    "guid": "12463d97-4d01-4bdc-9b4d-5e4e685ba352",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-07-17T02:55:15 -01:00"
+  },
+  {
+    "_id": "61532dd39482637b4fbfeba6",
+    "guid": "3f47efc6-f21c-49f0-baa4-ecc0a6639919",
+    "purchase": true,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2021-04-12T10:32:39 -01:00"
+  },
+  {
+    "_id": "61532dd3919ac9b106731147",
+    "guid": "db2da67c-9847-4226-b3ff-0e4f7d813486",
+    "purchase": true,
+    "age": 27,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-07-25T07:23:47 -01:00"
+  },
+  {
+    "_id": "61532dd337d04b2f076dc57b",
+    "guid": "05a38fc9-da04-4cea-b9d7-978de9de6338",
+    "purchase": false,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-03-26T11:05:35 -00:00"
+  },
+  {
+    "_id": "61532dd31db00457d8952371",
+    "guid": "f058a745-c19b-47ca-8916-6b3695e0b10b",
+    "purchase": true,
+    "age": 23,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-02-12T04:03:14 -00:00"
+  },
+  {
+    "_id": "61532dd3344c1e9e47a4ac45",
+    "guid": "f3e98590-fb9d-4efa-8ed3-5549f439ac1f",
+    "purchase": false,
+    "age": 38,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-05-20T10:28:31 -01:00"
+  },
+  {
+    "_id": "61532dd3680b7e9b64ace013",
+    "guid": "76a355ec-ab23-4103-9fba-a9f19c127107",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2021-01-07T08:34:37 -00:00"
+  },
+  {
+    "_id": "61532dd33d2947e8dccc5255",
+    "guid": "62b991d7-6124-4866-80e2-d45e4322a4ed",
+    "purchase": false,
+    "age": 35,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2021-07-03T09:58:24 -01:00"
+  },
+  {
+    "_id": "61532dd3039b1be2daddd381",
+    "guid": "8be2187e-64fe-4d74-b048-fb2ee769ea11",
+    "purchase": true,
+    "age": 27,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-01-22T08:39:56 -00:00"
+  },
+  {
+    "_id": "61532dd317cd07cbb72c0e8c",
+    "guid": "3d3c1627-7e22-4e63-9b69-4bee34117448",
+    "purchase": false,
+    "age": 30,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-10-13T04:38:51 -01:00"
+  },
+  {
+    "_id": "61532dd35fb2241a9ef689dd",
+    "guid": "8baf13d5-80a2-4ea4-b8db-0fbe011f663a",
+    "purchase": false,
+    "age": 38,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2021-08-18T03:28:29 -01:00"
+  },
+  {
+    "_id": "61532dd3a63ed2d5db3fa8a7",
+    "guid": "65e4fb86-06fc-4edb-97cd-ee179751a8a9",
+    "purchase": false,
+    "age": 24,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-04-05T11:11:56 -01:00"
+  },
+  {
+    "_id": "61532dd32476e9e4ebad69e7",
+    "guid": "5dfcd542-72f2-4d59-8d33-69aee086c12a",
+    "purchase": true,
+    "age": 37,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-08-06T11:27:30 -01:00"
+  },
+  {
+    "_id": "61532dd3c85d251480478f1d",
+    "guid": "36e89018-b46c-4cef-8f45-959c951cf24c",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2021-03-08T10:51:25 -00:00"
+  },
+  {
+    "_id": "61532dd38fb9ef37e34b98f9",
+    "guid": "8a725c4f-c962-403e-a10b-6a6bae3f8d42",
+    "purchase": true,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-03-02T01:53:53 -00:00"
+  },
+  {
+    "_id": "61532dd3142a703d0f3d6480",
+    "guid": "2cfa18d7-e749-4e5c-994f-5cb543a7e546",
+    "purchase": false,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-05-24T08:40:38 -01:00"
+  },
+  {
+    "_id": "61532dd328bcece6550dc10e",
+    "guid": "4e3c0f0c-4c72-40b5-bd86-2ff4e6e98be0",
+    "purchase": true,
+    "age": 20,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2020-08-10T08:36:48 -01:00"
+  },
+  {
+    "_id": "61532dd3b1e768717e13e032",
+    "guid": "00486877-d375-45a4-9d10-b11489a70c22",
+    "purchase": false,
+    "age": 40,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2021-06-27T05:28:59 -01:00"
+  },
+  {
+    "_id": "61532dd3a3e6dc39e766280a",
+    "guid": "c3f88806-a749-4036-a0e1-c929f9ad152b",
+    "purchase": false,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-06-05T02:03:18 -01:00"
+  },
+  {
+    "_id": "61532dd35e216f74759fb4c2",
+    "guid": "b4ab1f2c-6afe-42b7-8301-ad01699537ff",
+    "purchase": false,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-07-14T09:07:28 -01:00"
+  },
+  {
+    "_id": "61532dd35027dbe5911f45ea",
+    "guid": "3cf19450-e154-4445-a330-ac2aa58d4467",
+    "purchase": true,
+    "age": 38,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2021-03-16T08:56:59 -00:00"
+  },
+  {
+    "_id": "61532dd3816ef43ba639bdb8",
+    "guid": "1c95f0da-d9ff-4952-bce2-d6c77e186bf1",
+    "purchase": true,
+    "age": 38,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-03-01T04:25:21 -00:00"
+  },
+  {
+    "_id": "61532dd39ffe1985f8d587ab",
+    "guid": "623e6da6-8101-47d7-b23a-9045372c225e",
+    "purchase": false,
+    "age": 25,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2021-03-09T10:56:09 -00:00"
+  },
+  {
+    "_id": "61532dd36dce4fca40d7ab2b",
+    "guid": "c0712b40-71f8-4ac5-b3dc-1bb32bf3b65a",
+    "purchase": false,
+    "age": 31,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-05-14T07:04:54 -01:00"
+  },
+  {
+    "_id": "61532dd3bce992d8a9b05267",
+    "guid": "b0c19f2e-5966-476e-a4fc-4e4c1857ce7f",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-01-11T01:05:51 -00:00"
+  },
+  {
+    "_id": "61532dd345f5f1968128144e",
+    "guid": "45b7fb0c-4cca-4e49-82ad-cfe2a6ab6d6c",
+    "purchase": false,
+    "age": 30,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-07-27T09:02:39 -01:00"
+  },
+  {
+    "_id": "61532dd3c61c9cb5fc19a647",
+    "guid": "7931e153-d33f-4df2-8a31-0e036d8a4b1f",
+    "purchase": true,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2020-12-28T09:26:21 -00:00"
+  },
+  {
+    "_id": "61532dd3b78fa946bb88a40e",
+    "guid": "d77d01cb-0f06-43ba-9d4b-ce5b5e68da68",
+    "purchase": true,
+    "age": 22,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-09-19T05:08:59 -01:00"
+  },
+  {
+    "_id": "61532dd39003c61d2cc4d5d8",
+    "guid": "8a610cb5-75f6-431c-b1bd-49a724d0bee9",
+    "purchase": false,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2021-02-22T06:55:53 -00:00"
+  },
+  {
+    "_id": "61532dd32d3cd1e040b20c0a",
+    "guid": "7315d08e-ffd7-445b-947f-2da0b8bfb875",
+    "purchase": true,
+    "age": 27,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-11-30T01:21:12 -00:00"
+  },
+  {
+    "_id": "61532dd31e5c217209fef4e5",
+    "guid": "65f49bea-876c-44fb-abfe-6237945ae5ec",
+    "purchase": true,
+    "age": 38,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-05-14T08:55:54 -01:00"
+  },
+  {
+    "_id": "61532dd3abbae15bf7c15588",
+    "guid": "3bf78dd6-90a4-4c19-8000-3acf9734f3b6",
+    "purchase": false,
+    "age": 31,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-02-10T02:42:13 -00:00"
+  },
+  {
+    "_id": "61532dd3c4485e076b2ff0a3",
+    "guid": "f42a1f2f-ad02-4eb0-b7d5-af69082b35f9",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-11-13T12:17:32 -00:00"
+  },
+  {
+    "_id": "61532dd33be49aa136dd4e40",
+    "guid": "b8d252a5-2680-48f2-97f2-a60468f8a896",
+    "purchase": true,
+    "age": 33,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-12-07T07:28:41 -00:00"
+  },
+  {
+    "_id": "61532dd3cb803a8eacb4a0f7",
+    "guid": "5a68759f-1e35-4a88-bd0e-f3a2f0412958",
+    "purchase": true,
+    "age": 40,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2021-07-30T11:13:24 -01:00"
+  },
+  {
+    "_id": "61532dd3f6789d47623add64",
+    "guid": "9d990a0f-60bd-4938-933a-5de5d50c2563",
+    "purchase": false,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-04-28T06:34:34 -01:00"
+  },
+  {
+    "_id": "61532dd3ba51747cbe32a5f0",
+    "guid": "d0986292-238c-4c89-907f-e7be4fc06262",
+    "purchase": true,
+    "age": 29,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2020-02-05T04:13:48 -00:00"
+  },
+  {
+    "_id": "61532dd34c688630bb84ed42",
+    "guid": "43362541-acee-41cc-9ed2-c07ccb3a1522",
+    "purchase": true,
+    "age": 34,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 1,
+    "event_date": "2020-01-01T03:33:20 -00:00"
+  },
+  {
+    "_id": "61532dd3d5102d76269137d6",
+    "guid": "e3ba1a0c-1d63-4b1f-af5e-1f16e0743d50",
+    "purchase": true,
+    "age": 32,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 1,
+    "event_date": "2020-07-14T02:28:57 -01:00"
+  },
+  {
+    "_id": "61532dd3a9a2ca3394756561",
+    "guid": "76f4bfaf-9dd0-459c-8387-93674bbf209f",
+    "purchase": true,
+    "age": 30,
+    "gender": "female",
+    "experience_id": 3,
+    "variant_id": 2,
+    "event_date": "2020-02-29T12:55:11 -00:00"
+  },
+  {
+    "_id": "61532dd373ce8aef342308ba",
+    "guid": "fa956b0c-1762-476d-b70b-29d637f39f72",
+    "purchase": false,
+    "age": 37,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 2,
+    "event_date": "2020-12-19T11:26:41 -00:00"
+  },
+  {
+    "_id": "61532dd3fa35e2600ecf937c",
+    "guid": "dbb8f5b5-d2b1-4905-827e-78b51614e5a9",
+    "purchase": false,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 1,
+    "variant_id": 2,
+    "event_date": "2020-02-03T01:07:23 -00:00"
+  },
+  {
+    "_id": "61532dd393759a5b4095d959",
+    "guid": "07ba77f0-459d-40e9-ab41-c9d18f1fd11a",
+    "purchase": true,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-09-11T04:48:36 -01:00"
+  },
+  {
+    "_id": "61532dd37af191dc6772a47f",
+    "guid": "0b837f1f-c32e-41bb-bef2-78f5d0205978",
+    "purchase": true,
+    "age": 28,
+    "gender": "female",
+    "experience_id": 4,
+    "variant_id": 1,
+    "event_date": "2020-06-08T09:58:47 -01:00"
+  },
+  {
+    "_id": "61532dd382a897e871f93cf9",
+    "guid": "5639671b-eecd-4830-8ede-6a5366639067",
+    "purchase": true,
+    "age": 39,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 1,
+    "event_date": "2021-03-11T06:26:39 -00:00"
+  },
+  {
+    "_id": "61532dd3de0a6eb94dbd7de1",
+    "guid": "2709adfb-6150-4f98-8b2e-a3f54646033c",
+    "purchase": false,
+    "age": 40,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-04-14T04:41:28 -01:00"
+  },
+  {
+    "_id": "61532dd33789c3616a595896",
+    "guid": "cc6daf6c-adc4-4d51-83b4-a50afe0258b7",
+    "purchase": true,
+    "age": 21,
+    "gender": "female",
+    "experience_id": 2,
+    "variant_id": 2,
+    "event_date": "2020-04-10T04:37:28 -01:00"
+  }
+]
